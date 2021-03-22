@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aamiriqubal
 - 👀 I’m interested in learning new languages, frameworks.
-- 🌱 I’m currently learning AWS, GraphQl, Kubernetes
+- 🌱 I’m currently learning AWS, GraphQL, Kubernetes
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aamir-iqubal/)
 
 <!---
